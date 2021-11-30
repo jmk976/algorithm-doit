@@ -27,5 +27,8 @@ class Max3m {
 		System.out.println("max3(1,3,2) = " + max3(1, 3, 2));		// [K] b＞c＞a
 		System.out.println("max3(2,3,3) = " + max3(2, 3, 3));		// [L] b＝c＞a
 		System.out.println("max3(1,2,3) = " + max3(1, 2, 3));		// [M] c＞b＞a
+		int my = max3(5,10,19);
+
+		System.out.println(my);
 	}
 }
