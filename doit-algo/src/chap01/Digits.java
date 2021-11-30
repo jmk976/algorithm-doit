@@ -1,4 +1,4 @@
-package Exercise/chap01;
+package chap01;
 import java.util.Scanner;
 // 2자리의 양수(10 ~ 99)를 입력합니다.
 
