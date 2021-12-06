@@ -29,7 +29,7 @@ public class Difference {
          System.out.println("숫자를 입력하시오.");
          int d = stdIn.nextInt();
 
-         System.out.println(diff(d)+"자리 수 입니다.");
+         System.out.println(diff(d)+"자리 수 입니다!");
 
     }
     
