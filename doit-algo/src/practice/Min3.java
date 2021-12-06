@@ -1,4 +1,3 @@
-package practice;
 
 class Min3{
 

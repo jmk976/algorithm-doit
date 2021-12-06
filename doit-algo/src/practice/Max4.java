@@ -1,4 +1,3 @@
-package practice;
 
 class Max4 {
 

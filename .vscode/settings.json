@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "Hi",
-        "Exercise/chap01"
+        "Exercise/chap01",
+        "doit-algo/src/practice"
     ]
 }
