@@ -1,4 +1,4 @@
-package chap01;
+
 // 곱셈표를 출력합니다.
 
 public class Multi99Table {

@@ -1,4 +1,3 @@
-package chap01;
 import java.util.Scanner;
 // 왼쪽 아래가 직각인 이등변 삼각형을 출력합니다.
 

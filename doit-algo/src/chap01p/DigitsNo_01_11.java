@@ -1,4 +1,4 @@
-package chap01;
+
 import java.util.Scanner;
 // 양의 정수값의 자릿수를 구하여 나타냄
 
@@ -15,7 +15,7 @@ class DigitsNo_01_11 {
 		} while (n <= 0);
 
 		int no = 0; 			// 자릿수
-		while (n > 0) {
+		while (n > 0) { // 소수자리는 생략된다.
 			n /= 10; 			// n을 10으로 나눔
 			no++;
 		}
