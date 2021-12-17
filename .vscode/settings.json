@@ -1,10 +1,11 @@
 {
     "java.project.sourcePaths": [
         "doit-algo/src/practice",
+        "doit-algo/src/chap02",
         "doit-algo/src/chap01p",
         "doit-algo/src/chap01",
         "Hi",
         "Exercise/chap01",
-        "doit-algo/src/chap02"
+        "doit-algo/src/chap03"
     ]
 }
