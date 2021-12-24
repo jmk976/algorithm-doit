@@ -1,4 +1,4 @@
-package chap03;
+
 import java.util.Arrays;
 import java.util.Scanner;
 import java.util.Comparator;
@@ -6,7 +6,7 @@ import java.util.Comparator;
 
 class PhysExamSearch {
 	// 신체검사 데이터를 정의합니다.
-	static class PhyscData {
+	static class PhyscData {   
 		private String name;			// 이름
 		private int    height;			// 키
 		private double vision;			// 시력
